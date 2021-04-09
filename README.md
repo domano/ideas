@@ -7,6 +7,7 @@ Gather some ideas and see what sticks.
 * Tournament and leaderboard app for hip corporates (e.g. for table tennis, table soccer etc.)
 * "Taptic Metronome" app for keeping a band in sync on stage (probably a Smartwatch app)
 * Note taking with git & markdown integration, but with a novice friendly UI
+* Wibble: Location based chat; User places text on a map and people can reply
 
 ## Webapps
 * Buy, hodl, sell tip of the day based on meme-stock subreddits and social media. (Reaching certain communities triggers selling tips etc.) - d
