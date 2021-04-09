@@ -13,6 +13,7 @@ Gather some ideas and see what sticks.
 * Buy, hodl, sell tip of the day based on meme-stock subreddits and social media. (Reaching certain communities triggers selling tips etc.)
 * Internal bug hunting/problem solving platform for corporates with bounties and votes
 * Feedback for Architecture Documentation in Enterprises (FADE) - Architecture documentation tool for teams - Documentation is directly interwoven with developer feedback. Keep enterprise, multi-team architecture up to date by making developer voices heard. Venting opinions keeps docs up to date.
+** Could integrate with Confluence or existing Enterprise Architecture tools.
 
 ## Libraries
 * Declarative functional go library for dead-simple UIs for CRUD apps - d
