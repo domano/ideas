@@ -22,3 +22,4 @@ Gather some ideas and see what sticks.
 
 ## CLI
 * Shell and OS-aware Alias and Path-generator (optinonally with git integration for those dotfiles)
+* CLI tool to serve any git repo from memory via http (WIP: https://github.com/domano/playground/tree/main/go/gitserve )
